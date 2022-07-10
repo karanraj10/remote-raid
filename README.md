@@ -41,7 +41,7 @@
 
 ## Snapshots
 
-<img src="https://user-images.githubusercontent.com/60970286/178133363-6c072689-c6a6-4616-8646-69d43e11a85d.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/60970286/178133363-6c072689-c6a6-4616-8646-69d43e11a85d.gif" width="100%" height="500px"/>
 </br></br>
 <hr style="border:2px solid grey"></hr>
 </br></br>
