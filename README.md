@@ -51,7 +51,7 @@
 <hr style="border:2px solid grey"></hr>
 </br></br>
 
-<img src="https://user-images.githubusercontent.com/60970286/178133229-5d1ff2fa-2545-43dc-b529-9ff678cc90e5.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/60970286/178133229-5d1ff2fa-2545-43dc-b529-9ff678cc90e5.png" width="500px" height="1000px"/>
 </br></br>
 <hr style="border:2px solid grey"></hr>
 </br></br>
